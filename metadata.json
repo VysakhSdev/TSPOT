@@ -1,0 +1,5 @@
+{
+  "name": "TSpot Digital Menu",
+  "description": "An interactive digital menu for TSpot restaurant, featuring a customer view and an admin panel to manage menu items. Customers can browse the menu, and administrators can add or remove items in real-time.",
+  "requestFramePermissions": []
+}
